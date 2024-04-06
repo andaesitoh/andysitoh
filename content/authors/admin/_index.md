@@ -1,6 +1,4 @@
 ---
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 # Display name
 title: Andy Sitoh
 # Name pronunciation (optional)
@@ -55,7 +53,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: <i class="devicon-rstudio-plain"></i>
+        icon: rstudio
         icon_pack: fab
       - name: Data Science
         description: ''
