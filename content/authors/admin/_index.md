@@ -28,9 +28,9 @@ bio: My primary interest lies in optimising clinical interpretations and decisio
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Neuropsychology
   - Neurodevelopment
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -54,7 +54,7 @@ skills:
         description: ''
         percent: 80
         icon: rstudio
-        icon_pack: fab
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 70
