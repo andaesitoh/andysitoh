@@ -53,8 +53,9 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: rstudio
-        icon_pack: fab
+        icon: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 70
