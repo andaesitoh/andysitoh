@@ -53,7 +53,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: rstudio-plain
+        icon: devicon/rstudio-plain
         icon_pack: devicon
       - name: Data Science
         description: ''
