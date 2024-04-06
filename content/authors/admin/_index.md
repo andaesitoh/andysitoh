@@ -54,7 +54,6 @@ skills:
         description: ''
         percent: 80
         icon: devicon/rstudio-plain
-        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 70
