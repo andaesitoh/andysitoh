@@ -29,7 +29,7 @@ bio: My primary interest lies in optimising clinical interpretations and decisio
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Cognitive Neuropsychology
+  - Neuropsychology
   - Neurodevelopment
 
 # Education to show in About widget
@@ -37,7 +37,7 @@ education:
   courses:
     - course: MPsych/PhD in Clinical Neuropsychology  
       institution: University of Melbourne
-      year: Est 2026 
+      year: 2026 
     - course: BSc (Hons) in Psychology
       institution: University of Melbourne
       year: 2021
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an aspiring academic and researcher with a keen interest in neuropsychology, data analysis, and clinical research. My skills involves visualising and interpreting complex datasets using programming languages including R and Python. I am also experienced in neuropsychological assessments, combining analytical and clinical expertise to inform clinical judgement.
 {style="text-align: justify;"}
